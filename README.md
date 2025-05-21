@@ -25,7 +25,3 @@ It features a clean UI layout with a **Title**, **Author**, **Cover Photo**, **P
 - 🎨 Clean and modern Flutter UI
 
 ---
-
-## 📐 UI Layout Structure
-
-# online-bookstore-_flutter
